@@ -1,9 +1,9 @@
 # Saidas-dixitais-P11
 Sen faltas vai mellor
 /*Esta práctica é igual que anterior xa 
-     que na p10 ainda qu non poñia tempo
-          para a saída 12 eu puxenas iguais 
-              eso fixo qu nesta non tivese que facer nada
+     que na p10 ainda que non poñía tempo
+          para a saída 12 eu púxenas iguais 
+              eso fixo que nesta non tivese que facer nada
 */
 // C++ code
 //
@@ -24,3 +24,4 @@ void loop()
   digitalWrite(12, LOW);
   delay(4000); // Wait for 4000 millisecond(s)
 }
+// comprovado
